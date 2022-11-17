@@ -1,2 +1,1 @@
-Creating zip file with context manager in python.
-File compressed with ZIP_DEFLATED
+Opening zip file with context manager and extract it.
