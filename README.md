@@ -1,0 +1,1 @@
+Opening zip file with context manager and extract it.
